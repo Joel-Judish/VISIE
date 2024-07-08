@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Reem Kufi", sans-serif !important;
+  box-sizing: border-box;
+
+}
+.boxapp-container {
+  /*display: flex;
+  justify-content: space-between;
+  padding: 300px;
+  align-items: center; /* Center items horizontally */
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  grid-gap: 20px; 
+  
+}
+.box1app {
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 60px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 50px;
+  margin-right: 20px;
+  margin-top: 60px;
+}
+.box2app{
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 60px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 50px;
+  margin-left:20px;
+  margin-top: 60px;
+}
+.box3app{
+  
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding:80px;
+    border-radius: 7px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+  padding-top: 0px;
+  margin-left: 400px;
+  margin-right: 5px;
+  align-items: center;
+  
+  
+  
+}
+
+.bodyapp {
+  font-family: Arial, sans-serif;
+  background-color: #f6f6f6;
+  padding: 50px;
+}
+.App {
+  min-height: 100vh;
+  width: 85vw;
+  max-width: 1900px;
+  margin: 0rem auto;
+}
+
+.containerapp {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.h3app{
+  text-align: center;
+  margin-top: 10px;
+}
+.h2app
+
+  {
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.h4app {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.inputapp[type="email"]
+{
+  width:calc(50%-5px);
+  padding: 10px;
+  margin-top: 2px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin-left: 10px;
+  margin-right: auto;
+  margin:0 auto;
+}
+.inputapp[type="password"] {
+  width:calc(50%-5px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin:0 auto;
+
+}
+
+buttonapp {
+  width: 50%;
+  padding: 10px;
+  background-color: orange;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin:0 auto;
+  display:block;
+  margin-top: 50px;
+}
+
+button:hoverapp {
+  background-color: grey;
+}
+
+.user-logged-inapp {
+  text-align: center;
+  margin-top: 30px;
+  padding: 30px;
+  margin-left: 10px;
+  
+  
+
+  
+}
+
+.sign-out-buttonapp {
+  margin-top: 30px;
+  width: 100px; /* Adjust width as needed */
+  height: 30px; /* Adjust height as needed */
+  font-size: 14px;
+ 
+}
